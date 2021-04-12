@@ -8,9 +8,9 @@ Development, standardization and promoting of the object-oriented modeling langu
 and simulate multi-domain cyber physical systems in a convenient way.
 
 ## License of project results
-The specifications of the Modelica Language are published under the CC-BY-SA (Creative Common 
-Atribution Sharealike 3.0 Unported) license, i.e., the license used by Wikipedia. A human-readable 
-summary of the license text is available from http://creativecommons.org/licenses/by-sa/3.0/
+The specifications of the Modelica Language are published under the CC BY-SA (Creative Common 
+Atribution Sharealike 4.0 International) license. A human-readable 
+summary of the license text is available from http://creativecommons.org/licenses/by-sa/4.0/
 New releases have to be sent to MA for approval according to §2 of MA Bylaws.
 
 ## Project rules
