@@ -25,7 +25,7 @@ Membership applications shall be sent to the Project Leader. The Project Leader 
 ### Project Leader and Project Deputy
 All Project Members elect a Project Leader and optionally a Project Deputy for two years with qualified majority. The Project Leader and the Project Deputy have to be individual members of the MA.
 
-The Project Leader has to organize meetings (typically, six per year; in person or online), organize the releases in conformance with the Library Officers, and report to MA.
+The Project Leader has to organize meetings (typically, six per year; in person or online), organize the releases in conformance with the Project Members, and report to MA.
 
 The Project Deputy has to support the Project Leader and to stand in for the Project Leader whenever the Project Leader is unable to fulfill his/her duties.
 
