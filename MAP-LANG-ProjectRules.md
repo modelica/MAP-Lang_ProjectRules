@@ -10,7 +10,7 @@ and simulate multi-domain cyber physical systems in a convenient way.
 ## License of project results
 The specifications of the Modelica Language are published under the CC BY-SA (Creative Common 
 Atribution Sharealike 4.0 International) license. A human-readable 
-summary of the license text is available from http://creativecommons.org/licenses/by-sa/4.0/
+summary of the license text is available from [creativecommons.org](https://creativecommons.org/licenses/by-sa/4.0/).
 New releases have to be sent to MA for approval according to §2 of MA Bylaws.
 
 ## Project rules
