@@ -32,7 +32,7 @@ The Project Deputy has to support the Project Leader and to stand in for the Pro
 Whenever a major issue arises where no consensus (based on a qualified majority) can be found within MAP-LANG, the Project Leader has to ask the MA Board for advice or a decision. Failing this, the Project Members can (based on a qualified majority) ask the MA Board to trigger an extraordinary election for the Project Leader/Deputy.
 
 ### Voting 
-Voting is performed by all Project Members according to §14 of the MA Bylaws, but with a quorum of 4 Project Members.
+Voting is performed by all Project Members according to §14 of the MA Bylaws, but with a quorum of 7 Project Members.
 
 ### Meetings
 Project meetings have to be announced at least one week in advance in the respective mailing lists. The mailing lists should reach at least all Project Members and MA members.
