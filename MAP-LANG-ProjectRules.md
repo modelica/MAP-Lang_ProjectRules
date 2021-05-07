@@ -29,7 +29,7 @@ The Project Leader has to organize meetings (typically, six per year; in person 
 
 The Project Deputy has to support the Project Leader and to stand in for the Project Leader whenever the Project Leader is unable to fulfill his/her duties.
 
-Whenever a major issue arises where no consensus (based on a qualified majority) can be found within MAP-LANG, the Project Leader has to ask the MA Board for advice or a decision. Failing this, the Project Members can (based on a qualified majority) ask the MA Board to trigger an extraordinary election for the Project Leader/Deputy.
+Whenever a major issue arises where no consensus (based on a qualified majority) can be found within MAP-Lang, the Project Leader has to ask the MA Board for advice or a decision. Failing this, the Project Members can (based on a qualified majority) ask the MA Board to trigger an extraordinary election for the Project Leader/Deputy.
 
 ### Voting 
 Voting is performed by all Project Members according to §14 of the MA Bylaws, but with a quorum of 7 Project Members.
@@ -40,7 +40,7 @@ Project meetings have to be announced at least one week in advance in the respec
 The meeting material (e.g., minutes, documents, presentations) is accessible to all members of the MA.
 
 ### Language releases
-Releases of libraries covered by MAP-LANG can be as follows:
+Releases of libraries covered by MAP-Lang can be as follows:
 
 The Project Leader or the Project Deputy initiates a new release.
 
