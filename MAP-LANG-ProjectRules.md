@@ -45,4 +45,4 @@ Releases of libraries covered by MAP-Lang can be as follows:
 The Project Leader or the Project Deputy initiates a new release.
 
 ## Project members
-Project members are maintained by Modelica Assocation and/or backoffice.
+Project members are maintained by Modelica Association and/or backoffice.
