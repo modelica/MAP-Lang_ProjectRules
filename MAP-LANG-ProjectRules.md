@@ -40,7 +40,7 @@ Project meetings have to be announced at least one week in advance in the respec
 The meeting material (e.g., minutes, documents, presentations) is accessible to all members of the MA.
 
 ### Language releases
-Releases of libraries covered by MAP-Lang can be as follows:
+Releases of contents covered by MAP-Lang can be as follows:
 
 The Project Leader or the Project Deputy initiates a new release.
 
