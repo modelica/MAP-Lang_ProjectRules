@@ -40,9 +40,7 @@ Project meetings have to be announced at least one week in advance in the respec
 The meeting material (e.g., minutes, documents, presentations) is accessible to all members of the MA.
 
 ### Language releases
-Releases of contents covered by MAP-Lang can be as follows:
-
-The Project Leader or the Project Deputy initiates a new release.
+New releases of contents covered by MAP-Lang can be initiated by the Project Leader or the Project Deputy.
 
 ## Project members
 Project members are maintained by Modelica Association and/or backoffice.
