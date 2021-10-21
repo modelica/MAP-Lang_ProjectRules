@@ -1,4 +1,4 @@
-# Modelica Association Project
+# Project Rules of Modelica Association Project - Language
 
 ## Project name
 Modelica Language
